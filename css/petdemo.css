@@ -1,0 +1,27 @@
+nav {
+    height: 48px;
+    background-color: rgb(84, 179, 216);
+}
+.inline-block
+{display: inline-block;
+padding: 20px;
+margin: 12px;
+color:rgb(3, 2, 34);
+}
+
+.inline-block:hover
+{color:deeppink}
+body {background-color:lightblue;}
+img 
+{width: 400px;
+padding: 8px;
+}
+.left
+{
+float: left;
+width: 30%;
+height: 800px;}
+
+.right
+{width: 70%;
+height: auto;}
